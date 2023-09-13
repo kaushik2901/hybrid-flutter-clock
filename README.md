@@ -1,10 +1,10 @@
 # Flutter Clock
-A flutter based beautiful clock face UI. Developed for [Flutter Clock](https://docs.flutter.dev/clock) contest.
+A flutter-based beautiful clock face UI. Developed for [Flutter Clock](https://docs.flutter.dev/clock) contest.
 
 ### Features
 - Light / Dark mode
 - Responsive
-- Mmeridiem and 24 Hour time format
+- Mmeridiem and 24-hour time format
 - Smooth 60 fps animation
 
 ### Demo
